@@ -15,5 +15,10 @@ a detailed manual is available [here](http://www.ncbi.nlm.nih.gov/books/NBK27969
 
 ---
 
-Instructions
+Instructions for using Amazon / Docker Image
+
+$TOOLKIT is the path to the SRA toolkit
+
+$BLAST is the path to command line BLAST tools
+
 
