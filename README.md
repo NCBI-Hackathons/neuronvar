@@ -7,6 +7,10 @@
 
 sra toolkit.  [Downloadable]( http://www.ncbi.nlm.nih.gov/Traces/sra/?view=software) for your operating system!
 
+magicBLAST  Download from [here](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/magicblast/)
+
+hisat2 Download from [here](ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/downloads/hisat2-2.0.4-Linux_x86_64.zip)
+
 #### Useful
 
 command line BLAST.  [Downloadable](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/) for your operating system!
