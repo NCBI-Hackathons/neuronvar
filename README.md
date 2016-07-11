@@ -1,2 +1,2 @@
 # neuronvar
-RNA Isoform Variability in Neurons and other cell types -- NCBI-assisted Boston Genomics Hackathon
+RNA Isoform Variability in Neurons and other cell types -- NCBI-assisted Boston Genomics Hackathon and ISMB Hackathons
